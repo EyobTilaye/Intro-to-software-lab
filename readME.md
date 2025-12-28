@@ -1,4 +1,12 @@
-# This repo is dedicated to Introduction to Software Lab practice on github.
-
-* The task is to create a github repo for collaboration* This is my first github repo for collaboraton.
-f
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Simple Page</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <p>This is a simple HTML page.</p>
+    <button onclick="alert('Button clicked!')">Click Me</button>
+</body>
+</html>
